@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://ij-start-canon-setup.github.io/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://ij-start-canon-setup.github.io/#content</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://ij-start-canon-setup.github.io</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://ij-start-canon-setup.github.io/canon-printer-setup-pixma-mg2522/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://ij-start-canon-setup.github.io/canon-support-code-5207/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://ij-start-canon-setup.github.io/canon-pixma-mg5420-setup/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://ij-start-canon-setup.github.io/canon-ij-setup-pixma-ts3522/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://ij-start-canon-setup.github.io/Canon-pixma-tr8520-setup/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+	</urlset>
+
